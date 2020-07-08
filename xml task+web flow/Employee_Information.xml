@@ -1,0 +1,35 @@
+<employee_information>
+	<first_employee_detail>
+		<address>
+			<flat> None </flat>
+			<house_number> 38 </house_number>
+			<road_number> 3 </road_number>
+			<area> Banani </area>
+			<city> Dhaka </city>
+			<department> sales </department>
+			<salary> $20000 </salary>
+		</address>
+	</first_employee_detail>
+	<second_employee_detail>
+		<address>
+			<flat> A/1 </flat>
+			<house_number> 20 </house_number>
+			<road_number> 18 </road_number>
+			<area> Mirpur </area>
+			<city> Dhaka </city>
+			<department> Accounts </department>
+			<salary> $12000 </salary>
+		</address>
+	</second_employee_detail>
+	<third_employee_detail>
+		<address>
+			<flat> None </flat>
+			<house_number> 38 </house_number>
+			<road_number> 3 </road_number>
+			<area> Motijheel </area>
+			<city> None </city>
+			<department> sales </department>
+			<salary> $30000 </salary>
+		</address>
+	</third_employee_detail>
+</employee_information>
